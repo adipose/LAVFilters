@@ -3,7 +3,7 @@
 	url = https://github.com/clsid2/FFmpeg.git
 [submodule "libbluray"]
 	path = libbluray
-	url = https://gitea.1f0.de/LAV/libbluray.git
+	url = https://github.com/adipose/libbluray.git
 [submodule "qsdecoder"]
 	path = qsdecoder
-	url = https://gitea.1f0.de/LAV/qsdecoder.git
+	url = https://github.com/adipose/qsdecoder.git
